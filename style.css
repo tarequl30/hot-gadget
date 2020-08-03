@@ -1,0 +1,28 @@
+body{
+    font-family:'Poppins', sans-serif;
+}
+.bg-banner{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: 60%;
+    backface-visibility: visible;
+    height: 350px;
+}
+.buy-now-button{
+   background-color: rgb(0, 0, 0);
+  color: white;
+  border-radius: 10px;
+}
+
+.card{
+  padding-top: 50px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px white
+
+}
+.phone{
+    padding-top: 140px;
+}
+.laptop{
+    padding-top: 50px;
+}
