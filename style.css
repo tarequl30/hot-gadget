@@ -17,7 +17,7 @@ body{
 .card{
   padding-top: 50px;
   border-radius: 5px;
-  box-shadow: 2px 2px 8px white
+  box-shadow: 5px 5px 10px white
 
 }
 .phone{
@@ -25,4 +25,21 @@ body{
 }
 .laptop{
     padding-top: 50px;
+}
+.cat-last{
+    text-align: center;
+    margin-top: 100px;
+
+}
+img{
+    float: right;
+    
+}
+
+.col-md-2{
+    padding-top: 100px;
+  
+}
+.col-md-4{
+    padding-top: 100px;
 }
