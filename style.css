@@ -4,7 +4,7 @@ body{
 .bg-banner{
     background-image: url(bg-1.png);
     background-repeat: no-repeat;
-    background-position: 60%;
+    background-position: 43%;
     backface-visibility: visible;
     height: 350px;
 }
@@ -14,11 +14,10 @@ body{
   border-radius: 10px;
   text-align: center;
 }
-
 .card{
   padding-top: 50px;
   border-radius: 5px;
-  box-shadow: 5px 5px 10px white
+  box-shadow: 10px 10px 15px lightgray;
 
 }
 .phone{
