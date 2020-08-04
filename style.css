@@ -12,6 +12,7 @@ body{
    background-color: rgb(0, 0, 0);
   color: white;
   border-radius: 10px;
+  text-align: center;
 }
 
 .card{
@@ -37,8 +38,7 @@ img{
 }
 
 .col-md-2{
-    padding-top: 100px;
-  
+    padding-top: 100px; 
 }
 .col-md-4{
     padding-top: 100px;
